@@ -1,4 +1,5 @@
-# key | 专业分享Windows10 激活码
+# key
+## 专业分享Windows10 激活码
 
 激活方法：
 
