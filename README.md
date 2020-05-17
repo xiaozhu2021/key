@@ -1,2 +1,129 @@
-# pay
-支付平台
+# key
+
+### 专门分享Windows10 激活码
+
+企业版：
+
+
+XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
+
+
+教育版：
+
+
+YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+
+
+专业版N：
+
+
+2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+
+
+企业版N：
+
+
+WGGHN-J84D6-QYCPR-T7PJ7-X766F
+
+
+教育版N：
+
+
+84NGF-MHBT6-FXBX8-QWJK7-DRR8H
+
+
+企业版S：
+
+
+FWN7H-PF93Q-4GGP8-M8RF3-MDWWW
+
+
+单语言版：
+
+
+BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
+
+
+Windows 10 Core Single Language:
+
+
+JPYNJ-XTFCR-372YJ-YJJ4Q-G83YB
+
+
+Windows 10 Core 中文版 Language Edition:
+
+
+R3BYW-CBNWT-F3JTP-FM942-BTDXY
+
+
+Windows 10 Core :
+
+
+KTNPV-KTRK4-3RRR8-39X6W-W44T3
+
+
+Windows 10 Pro:
+
+
+8N67H-M3CY9-QT7C4-2TR7M-TXYCV
+
+
+Windows 10 Enterprise:
+
+
+CKFK9-QNGF2-D34FM-99QX3-8XC4K
+
+
+Windows 10 Core Single Language :
+
+
+JPYNH-XTFCR-372YJ-YJJ3Q-G83YB
+
+
+Windows 10 Core Chinese Languange Edition:
+
+
+R3BYW-CBNWT-F3JTP-FM942-BTDXY
+
+
+win10企业版：
+
+
+Windows 10 Enterprise :
+
+
+NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+
+Windows 10 Enterprise N:
+
+
+DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+
+
+Windows 10 Enterprise 2015 LTSB :
+
+
+WNMTR-4C88C-JK8YV-HQ7T2-76DF9
+
+
+Windows 10 Enterprise 2015 LTSB N :
+
+
+2F77B-TNFGY-69QQF-B8YKP-D6
+
+
+win10预览版密钥：
+
+
+Win10企业版密钥：
+
+
+PBHCJ-Q2NYD-2PX34-T2TD6-233PK
+
+
+Win10专业版密钥：
+
+
+NKJFK-GPHP7-G8C3J-P6JXR-HQRJR
+
