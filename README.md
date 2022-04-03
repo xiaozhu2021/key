@@ -1,15 +1,12 @@
-# key
-## 专业分享Windows10 激活码
-
-
-### 当然，每个密钥都具有时效性和激活次数限制，如果密钥失效或者被用完，可以联系小编QQ：2530665121 获取最新可用密钥。
+# 专业分享Windows10 激活码
+> 当然，每个密钥都具有时效性和激活次数限制，如果密钥失效或者被用完，可以联系我获取最新可用密钥。
 
 -----------
 激活方法：
 
 系统安装完毕后，首先以管理员身份打开CMD命令行窗口，按下Win+X，选择命令提示符(管理员)。
 
-说明：kms.xspace.in是kms服务器地址，可能会失效，如果激活失败，可以自行搜索kms服务器地址，将kms.xspace.in替换成新的地址即可，比如换成kms.03k.org
+说明：kms.xspace.in是kms服务器地址，可能会失效，如果激活失败，可以自行搜索kms服务器地址，将kms.xspace.in替换成新的地址即可，以下是部分KMS服务器：
 ```
 kms.03k.org
 kms.chinancce.com
@@ -33,45 +30,34 @@ kms9.MSGuides.com
 ```
 win10专业版用户请依次输入：
 
+```
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-
 slmgr /skms kms.xspace.in
-
 slmgr /ato
+```
 
 win10企业版用户请依次输入：
-
+```
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
-
 slmgr /skms kms.xspace.in
-
 slmgr /ato
+```
 
 -----------------
 
 密钥更新：win10企业版(政府版)400年期限密钥
-
+```
 【EnterpriseG】FV469-WGNG4-YQP66-2B2HY-KD8YX
-
 【EnterpriseGN】FW7NV-4T673-HF4VX-9X4MM-B4H4T
-
 【gvlkEnterpriseG】YYVX9-NTFWV-6MDM3-9PT4T-4M68B
-
 【gvlkEnterpriseGN】44RPN-FTY23-9VTTB-MP9BX-T84FV
-
+```
 说明：
 
-1、现有的Win10中文版要升级为企业G版，不需要重装系统，一个密钥即可搞定，开始--设置--更新和安全--激活--更改产品密钥。
-
-2、更改产品密钥（比如使用YYVX9-NTFWV-6MDM3-9PT4T-4M68B）后就能自动升级成为企业版G。
-
-##### 3、激活期限为15万天（400年），基本上算是永久激活了。
-
-##### 4、G表示政府，N表示无捆绑软件版，gvlk表示用于KMS激活的批量激活码
-
-
-
-
+1.现有的Win10中文版要升级为企业G版，不需要重装系统，一个密钥即可搞定，开始--设置--更新和安全--激活--更改产品密钥
+2.更改产品密钥（比如使用YYVX9-NTFWV-6MDM3-9PT4T-4M68B）后就能自动升级成为企业版G
+3.激活期限为**15万天（400年）**，基本上算是**永久**激活了
+4.G表示政府，N表示无捆绑软件版，gvlk表示用于KMS激活的批量激活码
 
 --------------
 Windows 10系统
@@ -311,7 +297,7 @@ FJHWT-KDGHY-K2384-93CT7-323RC
 
 
 
-2、神Key(适用各版本)：
+2.神Key(适用各版本)：
 
 KH2J9-PC326-T44D4-39H6V-TVPBY
 
@@ -325,7 +311,7 @@ TFP9Y-VCY3P-VVH3T-8XXCC-MF4YK
 
 RHTBY-VWY6D-QJRJ9-JGQ3X-Q2289
 
-3、常用笔记本激活码：
+3.常用笔记本激活码：
 
 戴尔 DELL 序列号： 342DG-6YJR8-X92GV-V7DCV-P4K27
 
@@ -334,7 +320,3 @@ RHTBY-VWY6D-QJRJ9-JGQ3X-Q2289
 三星 SAMSUNG 序列号：49PB6-6BJ6Y-KHGCQ-7DDY6-TF7CD
 
 宏基 ACER 序列号： YKHFT-KW986-GK4PY-FDWYH-7TP9F或FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
-
-
-
-
