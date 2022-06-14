@@ -1,4 +1,4 @@
-# 专业分享Windows10 激活码
+# Windows 激活码
 > 当然，每个密钥都具有时效性和激活次数限制，如果密钥失效或者被用完，可以联系我获取最新可用密钥。
 
 -----------
@@ -7,7 +7,8 @@
 系统安装完毕后，首先以管理员身份打开CMD命令行窗口，按下Win+X，选择命令提示符(管理员)。
 
 说明：kms.xspace.in是kms服务器地址，可能会失效，如果激活失败，可以自行搜索kms服务器地址，将kms.xspace.in替换成新的地址即可，以下是部分KMS服务器：
-```
+```txt
+# 下方地址可能会有重复，自己看看
 kms.03k.org
 kms.chinancce.com
 kms.lotro.cc
@@ -15,7 +16,6 @@ cy2617.jios.org
 kms.shuax.com
 kms.luody.info
 kms.cangshui.net
-zh.us.to
 kms.library.hk
 xykz.f3322.org
 kms.binye.xyz
@@ -25,27 +25,48 @@ kms.moeclub.org
 amrice.top
 kms.digiboy.ir
 kms.lolico.moe
+kms.90zm.xyz
+kms.cangshui.net
+kms.03k.org
+kms.myftp.org
+zh.us.to
+kms.chinancce.com
+kms.digiboy.ir
+kms.luody.info
+kms.mrxn.net
 kms8.MSGuides.com
-kms9.MSGuides.com
+xykz.f3322.org
+kms.bige0.com
+kms.shuax.com
+kms.lotro.cc
+www.ddddg.cn
+cy2617.jios.org
+enter.picp.net
+kms.qkeke.com
 ```
+**Windows 11**专业版安装密钥：VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+---
+
 win10专业版用户请依次输入：
 
-```
+```bat
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-slmgr /skms kms.xspace.in
+slmgr /skms kms.qkeke.com
 slmgr /ato
 ```
 
 win10企业版用户请依次输入：
-```
+
+```bat
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
 slmgr /skms kms.xspace.in
 slmgr /ato
 ```
 
------------------
+--------
 
-密钥更新：win10企业版(政府版)400年期限密钥
+2021密钥更新：win10企业版(政府版)400年期限密钥
 ```
 【EnterpriseG】FV469-WGNG4-YQP66-2B2HY-KD8YX
 【EnterpriseGN】FW7NV-4T673-HF4VX-9X4MM-B4H4T
@@ -59,7 +80,7 @@ slmgr /ato
 3.激活期限为**15万天（400年）**，基本上算是**永久**激活了
 4.G表示政府，N表示无捆绑软件版，gvlk表示用于KMS激活的批量激活码
 
---------------
+-----
 Windows 10系统
 
 企业版：XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
