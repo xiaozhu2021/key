@@ -1,12 +1,12 @@
-# Windows 激活码
+# Windows 全版本激活码
 > 当然，每个密钥都具有时效性和激活次数限制，如果密钥失效或者被用完，可以联系我获取最新可用密钥。
 
------------
+--------
 激活方法：
 
-系统安装完毕后，首先以管理员身份打开CMD命令行窗口，按下Win+X，选择命令提示符(管理员)。
+系统安装完毕后，首先以**管理员身份**打开CMD命令行窗口，按下Win+X，选择命令提示符(管理员)。
 
-说明：kms.xspace.in是kms服务器地址，可能会失效，如果激活失败，可以自行搜索kms服务器地址，将kms.xspace.in替换成新的地址即可，以下是部分KMS服务器：
+说明：`kms.xspace.in`是kms服务器地址，可能会失效，如果激活失败，可以自行搜索kms服务器地址，将kms.xspace.in替换成新的地址即可，以下是部分KMS服务器：
 ```txt
 # 下方地址可能会有重复，自己看看
 kms.03k.org
@@ -48,7 +48,10 @@ kms.qkeke.com
 
 ---
 
-win10专业版用户请依次输入：
+<details>
+  <summary>KMS激活示例</summary>
+
+Win10专业版用户请依次输入：
 
 ```bat
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
@@ -56,7 +59,7 @@ slmgr /skms kms.qkeke.com
 slmgr /ato
 ```
 
-win10企业版用户请依次输入：
+Win10企业版用户请依次输入：
 
 ```bat
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
@@ -64,9 +67,13 @@ slmgr /skms kms.xspace.in
 slmgr /ato
 ```
 
+</details>
+
 --------
 
-2021密钥更新：win10企业版(政府版)400年期限密钥
+<details>
+  <summary>2021密钥更新：win10企业版(政府版)400年期限密钥</summary>
+
 ```
 【EnterpriseG】FV469-WGNG4-YQP66-2B2HY-KD8YX
 【EnterpriseGN】FW7NV-4T673-HF4VX-9X4MM-B4H4T
@@ -80,8 +87,10 @@ slmgr /ato
 3.激活期限为**15万天（400年）**，基本上算是**永久**激活了
 4.G表示政府，N表示无捆绑软件版，gvlk表示用于KMS激活的批量激活码
 
------
-Windows 10系统
+
+</details>
+
+### Windows 10系统
 
 企业版：XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
 
@@ -137,8 +146,6 @@ NJ4MX-VQQ7Q-FP3DB-VDGHX-7XM87
 
 MH37W-N47XK-V7XM9-C7227-GCQG9
 
-win10企业版：
-
 Windows 10 Enterprise : NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 Windows 10 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
@@ -147,42 +154,24 @@ Windows 10 Enterprise 2015 LTSB :WNMTR-4C88C-JK8YV-HQ7T2-76DF9
 
 Windows 10 Enterprise 2015 LTSB N : 2F77B-TNFGY-69QQF-B8YKP-D6
 
-win10预览版密钥：
-
 Win10企业版密钥：PBHCJ-Q2NYD-2PX34-T2TD6-233PK
 
 Win10专业版密钥：NKJFK-GPHP7-G8C3J-P6JXR-HQRJR
 
 
 <details>
-<summary>来自搜狗</summary>
-企业版：
+  <summary>2021密匙集合</summary>
+企业版：`XGVPP-NMH47-7TTHJ-W3FW7-8HV2C`
 
+教育版：`YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY`
 
-XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
+专业版N：`2B87N-8KFHP-DKV6R-Y2C8J-PKCKT`
 
+企业版N：WGGHN-J84D6-QYCPR-T7PJ7-X766F`
 
-教育版：
+教育版N：`84NGF-MHBT6-FXBX8-QWJK7-DRR8H`
 
-
-YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
-
-
-专业版N：
-`2B87N-8KFHP-DKV6R-Y2C8J-PKCKT`
-
-
-企业版N：
-WGGHN-J84D6-QYCPR-T7PJ7-X766F`
-
-
-教育版N：
-`84NGF-MHBT6-FXBX8-QWJK7-DRR8H`
-
-
-企业版S：
-`FWN7H-PF93Q-4GGP8-M8RF3-MDWWW`
-
+企业版S：`FWN7H-PF93Q-4GGP8-M8RF3-MDWWW`
 
 单语言版: `BT79Q-G7N6G-PGBYW-4YWX6-6F4BT`
 
@@ -194,64 +183,27 @@ Windows 10 Core: `KTNPV-KTRK4-3RRR8-39X6W-W44T3`
 
 Windows 10 Pro: `8N67H-M3CY9-QT7C4-2TR7M-TXYCV`
 
-
 Windows 10 Enterprise: `CKFK9-QNGF2-D34FM-99QX3-8XC4K`
-
 
 Windows 10 Core Single Language : `JPYNH-XTFCR-372YJ-YJJ3Q-G83YB`
 
+Windows 10 Core Chinese Languange Edition: `R3BYW-CBNWT-F3JTP-FM942-BTDXY`
 
-Windows 10 Core Chinese Languange Edition:
+Windows 10 Enterprise : NPPR9-FWDCX-D2C8J-H872K-2YT43
 
+Windows 10 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 
-`R3BYW-CBNWT-F3JTP-FM942-BTDXY`
+Windows 10 Enterprise 2015 LTSB : WNMTR-4C88C-JK8YV-HQ7T2-76DF9
 
+Windows 10 Enterprise 2015 LTSB N : 2F77B-TNFGY-69QQF-B8YKP-D6
 
-win10企业版：
+Win10专业版密钥：`NKJFK-GPHP7-G8C3J-P6JXR-HQRJR`
 
-
-Windows 10 Enterprise :
-
-
-NPPR9-FWDCX-D2C8J-H872K-2YT43
-
-
-Windows 10 Enterprise N:
-
-
-DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-
-
-Windows 10 Enterprise 2015 LTSB :
-
-
-WNMTR-4C88C-JK8YV-HQ7T2-76DF9
-
-
-Windows 10 Enterprise 2015 LTSB N :
-
-
-2F77B-TNFGY-69QQF-B8YKP-D6
-
-
-win10预览版密钥：
-
-
-Win10企业版密钥：
-
-
-PBHCJ-Q2NYD-2PX34-T2TD6-233PK
-
-
-Win10专业版密钥：
-
-
-NKJFK-GPHP7-G8C3J-P6JXR-HQRJR
-
+</details>
 
 
 <details>
-<summary>来自百度</summary>
+  <summary>下方来自百度，无保障</summary>
 
 1、专业版：
 
@@ -286,6 +238,7 @@ FJHWT-KDGHY-K2384-93CT7-323RC
 
 2.神Key(适用各版本)：
 
+```txt
 KH2J9-PC326-T44D4-39H6V-TVPBY
 
 TFP9Y-VCY3P-VVH3T-8XXCC-MF4YK
@@ -297,15 +250,16 @@ TFP9Y-VCY3P-VVH3T-8XXCC-MF4YK
 6K2KY-BFH24-PJW6W-9GK29-TMPWP
 
 RHTBY-VWY6D-QJRJ9-JGQ3X-Q2289
+```
 
 3.常用笔记本激活码：
 
-戴尔 DELL 序列号： 342DG-6YJR8-X92GV-V7DCV-P4K27
+戴尔 DELL 序列号: `342DG-6YJR8-X92GV-V7DCV-P4K27`
 
-联想 LENOVO 序列号： 22TKD-F8XX6-YG69F-9M66D-PMJBM
+联想 LENOVO 序列号: `22TKD-F8XX6-YG69F-9M66D-PMJBM`
 
-三星 SAMSUNG 序列号：49PB6-6BJ6Y-KHGCQ-7DDY6-TF7CD
+三星 SAMSUNG 序列号: `49PB6-6BJ6Y-KHGCQ-7DDY6-TF7CD`
 
-宏基 ACER 序列号： YKHFT-KW986-GK4PY-FDWYH-7TP9F或FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
+宏基 ACER 序列号: `YKHFT-KW986-GK4PY-FDWYH-7TP9F`或`FJGCP-4DFJD-GJY49-VJBQ7-HYRR2`
 
 </details>
