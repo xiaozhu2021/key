@@ -1,8 +1,14 @@
 # Windows 全版本激活码
 > 当然，每个密钥都具有时效性和激活次数限制，如果密钥失效或者被用完，可以联系我获取最新可用密钥。
 
+**Windows 11**专业版安装密钥：
+
+- VK7JG-NPHTM-C97JM-9MPGT-3V66T
+- 8G7XN-V7YWC-W8RPC-V73KB-YWRDB
+- C38W9-KWNBH-M4HWH-746BK-H6DGY
+
 --------
-激活方法：
+KMS 激活方法：
 
 系统安装完毕后，首先以**管理员身份**打开CMD命令行窗口，按下Win+X，选择命令提示符(管理员)。
 
@@ -44,7 +50,6 @@ cy2617.jios.org
 enter.picp.net
 kms.qkeke.com
 ```
-**Windows 11**专业版安装密钥：VK7JG-NPHTM-C97JM-9MPGT-3V66T
 
 ---
 
